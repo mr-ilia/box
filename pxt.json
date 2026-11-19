@@ -1,0 +1,14 @@
+{
+    "name": "y7-box",
+    "description": "Who opened the prop box?",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "main.py"
+    ],
+    "preferredEditor": "pyprj"
+}
